@@ -2,9 +2,9 @@
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="[https://www.istockphoto.com/es/vector/mercado-de-valores-o-gr%C3%A1fico-de-comercio-de-divisas-en-concepto-gr%C3%A1fico-gm1204371056-346508835](https://jvitelli.com/wp-content/uploads/2022/05/github-copilot.jpg)">
- <source media="(prefers-color-scheme: light)" srcset="[https://www.istockphoto.com/es/vector/mercado-de-valores-o-gr%C3%A1fico-de-comercio-de-divisas-en-concepto-gr%C3%A1fico-gm1204371056-346508835](https://jvitelli.com/wp-content/uploads/2022/05/github-copilot.jpg)">
- <img alt="YOUR-ALT-TEXT" src="[https://www.istockphoto.com/es/vector/mercado-de-valores-o-gr%C3%A1fico-de-comercio-de-divisas-en-concepto-gr%C3%A1fico-gm1204371056-346508835](https://jvitelli.com/wp-content/uploads/2022/05/github-copilot.jpg)">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/stradaflor/stradaflor/blob/main/data_analyticstrendsmin.avif">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/stradaflor/stradaflor/blob/main/data_analyticstrendsmin.avif">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/stradaflor/stradaflor/blob/main/data_analyticstrendsmin.avif">
 </picture>
 
 
