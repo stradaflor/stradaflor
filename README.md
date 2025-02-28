@@ -11,8 +11,7 @@
 
 ## About me
 
-Hi, I'm Florence. I started with github 1 year ago because I wanted to showcase my data analysis projects. 
-I'm actually working on improving this space on github :)
+I am a Data Analyst with a strong background in developing and automating reports that drive strategic decision-making. With hands-on experience in creating Power BI dashboards, integrating data from multiple sources, and enhancing data-driven insights, I specialize in translating complex data into actionable business intelligence. My work has supported operational efficiency and informed decision-making in the engineering and construction industries. I am passionate about improving data accessibility, ensuring data quality, and optimizing reporting processes to align with business objectives.
 
 | Rank | Languages |
 |-----:|-----------|
